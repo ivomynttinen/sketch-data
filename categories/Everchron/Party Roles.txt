@@ -1,0 +1,18 @@
+Appellant
+Appellee
+Claimant
+Class Member
+Conservator
+Cross-complainant
+Cross-defendant
+Defendant
+Government
+Guardian ad litem
+Impleader
+Intervenor
+Judgment Creditor
+Judgement Debtor
+Lead Plaintiff
+Petitioner
+Plaintiff
+Respondent
